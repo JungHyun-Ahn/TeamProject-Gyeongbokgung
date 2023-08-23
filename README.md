@@ -29,3 +29,6 @@ https://gyeongbokgung-c8579.web.app/index.html
 * 취소 내역 : 예매를 취소한 내역을 확인할 수 있습니다.
 
 * 공지사항 : 경복궁의 공지사항을 보여주는 메뉴로 메인의 팝업 이미지를 클릭 시에는 페이지가 연결될 때 해당 공지 게시글을 보여줍니다.
+
+## 발표 자료
+[경복궁 발표 자료.pdf](https://github.com/JungHyun-Ahn/Portfolio_Main/files/12420813/default.pdf)
